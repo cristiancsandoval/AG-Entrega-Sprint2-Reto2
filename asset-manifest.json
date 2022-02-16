@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/AG-Entrega-Sprint2-Reto2/static/js/main.a24fd976.js",
+    "main.js": "/AG-Entrega-Sprint2-Reto2/static/js/main.d3637972.js",
     "index.html": "/AG-Entrega-Sprint2-Reto2/index.html",
-    "main.a24fd976.js.map": "/AG-Entrega-Sprint2-Reto2/static/js/main.a24fd976.js.map"
+    "main.d3637972.js.map": "/AG-Entrega-Sprint2-Reto2/static/js/main.d3637972.js.map"
   },
   "entrypoints": [
-    "static/js/main.a24fd976.js"
+    "static/js/main.d3637972.js"
   ]
 }

@@ -1,6 +1,6 @@
 # Reto 2 - Sprint 2 - Launch countdown timer
 
-## Bienvenido! 👋
+## ¡Hola! 👋
 
 **En este reto demostré mi comprensión de React Hooks y Styled Components**
 
@@ -11,14 +11,10 @@ Desarrollé un temporizador de cuenta regresiva de lanzamiento completamente fun
 Características:
 
 - Se ajusta el tamaño de los elementos según el tamaño de la pantalla del dispositivo
-- Se observa el temporizador de cuenta regresiva en vivo que marca cada segundo (el conteo se inicializó para el 1 de abril de 2022 a las 12:00:00)
+- Se observa el temporizador de cuenta regresiva en vivo que marca cada segundo (el conteo se inicializó para el 15 de marzo de 2022 a las 12:00:00)
 
 ## Despliegue del proyecto
 
-Hay muchas formas de alojar su proyecto de forma gratuita. Nuestros recomendados son:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+https://cristiancsandoval.github.io/AG-Entrega-Sprint2-Reto2/
 
 🚀

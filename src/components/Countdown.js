@@ -3,7 +3,7 @@ import {MainStyle, StyleH1, CntnrIndicadores, Indicador, ValorIndicador, UnidadI
 
 const Countdown = () => {
 
-  const fecha = new Date(2022, 3, 1, 12, 0, 0)
+  const fecha = new Date(2022, 2, 15, 12, 0, 0)
 
   const [dias, setDias] = useState(0)
   const [horas, setHoras] = useState(0)
@@ -41,7 +41,11 @@ const Countdown = () => {
     let respuesta = ""
 
     if (num<10){
-        respuesta = "0" + String(num)
+        if(num<0){
+          respuesta = "00"
+        }else{
+          respuesta = "0" + String(num)
+        }
     } else{
         respuesta = String(num)
     }
